@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-yajwpv.hsteamid.com/sitemap.xml
